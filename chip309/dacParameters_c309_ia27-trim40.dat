@@ -1,0 +1,23 @@
+  1  Vdig	    9
+  2  Vana	  160
+  3  Vsf	  230
+  4  Vcomp	   12
+  7  VwllPr	   30
+  9  VwllSh	   30
+ 10  VhldDel	  252
+ 11  Vtrim	  149
+ 12  VthrComp	  101
+ 13  VIBias_Bus	    1
+ 14  Vbias_sf	   14
+ 15  VoffsetOp	   69
+ 17  VoffsetRO	  140
+ 18  VIon	   45
+ 19  Vcomp_ADC	   30
+ 20  VIref_ADC	   59
+ 22  VIColOr	   20
+ 25  VCal	  252
+ 26  CalDel	  138
+ 31  VD 	 2600
+ 32  VA 	 1800
+253  CtrlReg	    4
+254  WBC	   60
