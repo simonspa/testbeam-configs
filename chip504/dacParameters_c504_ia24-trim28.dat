@@ -7,11 +7,11 @@
  10  VhldDel	  252
  11  Vtrim	  147
  12  VthrComp	  111
- 13  VIBias_Bus	   30
+ 13  VIBias_Bus	   90
  17  PHOffset	  159
  19  Vcomp_ADC	   10
  20  PHScale	  112
- 22  VIColOr	   99
+ 22  VIColOr	  255
  25  VCal	  222
  26  CalDel	  151
  31  VD 	 2500

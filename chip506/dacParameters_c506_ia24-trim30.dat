@@ -11,7 +11,7 @@
  17  PHOffset	  149
  19  Vcomp_ADC	   10
  20  PHScale	  112
- 22  VIColOr	   99
+ 22  VIColOr	  255
  25  VCal	  222
  26  CalDel	  157
  31  VD 	 2600
