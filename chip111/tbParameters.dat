@@ -1,0 +1,9 @@
+  0             clk   13
+  1             ctr   13
+  2             sda   29
+  3             tin   19
+  4           level   15
+999    triggerdelay    0
+254   deser160phase    4
+253        tindelay   14
+999       toutdelay    9
