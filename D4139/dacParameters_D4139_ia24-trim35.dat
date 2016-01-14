@@ -1,0 +1,304 @@
+  1  Vdig	    8
+  2  Vana	   76
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  123
+ 12  VthrComp	   89
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  157
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  112
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  115
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   86
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  133
+ 12  VthrComp	   89
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  158
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  112
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  129
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   79
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  105
+ 12  VthrComp	   87
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  153
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  107
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  133
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   80
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  153
+ 12  VthrComp	   79
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  159
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  108
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  140
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   71
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  127
+ 12  VthrComp	   85
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  153
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  106
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  125
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   74
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  131
+ 12  VthrComp	   79
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  147
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  107
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  138
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   95
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  129
+ 12  VthrComp	  100
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  162
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  100
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  136
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   69
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  129
+ 12  VthrComp	   79
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  145
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  112
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  126
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   76
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  131
+ 12  VthrComp	   89
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  161
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  118
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  141
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   85
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  125
+ 12  VthrComp	  102
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  165
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  116
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  120
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   80
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  129
+ 12  VthrComp	   88
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  151
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  116
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  127
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   71
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  159
+ 12  VthrComp	   79
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  146
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  112
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  128
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   75
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  145
+ 12  VthrComp	   79
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  161
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  114
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  133
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   76
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  133
+ 12  VthrComp	   77
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  154
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  116
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  127
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   79
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  147
+ 12  VthrComp	   90
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  161
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  112
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  136
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
+  1  Vdig	    8
+  2  Vana	   78
+  3  Vsh	   30
+  4  Vcomp	   12
+  7  VwllPr	  160
+  9  VwllSh	  160
+ 10  VhldDel	  252
+ 11  Vtrim	  131
+ 12  VthrComp	   93
+ 13  VIBias_Bus	   60
+ 17  PHOffset	  164
+ 19  Vcomp_ADC	   10
+ 20  PHScale	  117
+ 22  VIColOr	  255
+ 25  VCal	  255
+ 26  CalDel	  125
+253  CtrlReg	    4
+254  WBC	  100
+255  RBReg	   12
