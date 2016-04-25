@@ -1,21 +1,19 @@
-  1  Vdig	    9
-  2  Vana	   92
-  3  Vsh	   33
-  4  Vcomp	    4
-  7  VwllPr	  160
-  9  VwllSh	  160
- 10  VhldDel	  152
- 11  Vtrim	  189
- 12  VthrComp	  129
- 13  VIBias_Bus	   30
- 17  PHOffset	  208
- 19  Vcomp_ADC	   50
- 20  PHScale	   98
- 22  VIColOr	   99
- 25  VCal	  255
- 26  CalDel	  126
- 31  VD 	 2500
- 32  VA 	 1800
-253  CtrlReg	    4
-254  WBC	   99
-255  RBReg	   12
+  1 vdig       9  
+  2 vana       78 
+  3 vsh        33 
+  4 vcomp      4  
+  7 vwllpr     160
+  9 vwllsh     160
+ 10 vhlddel    152
+ 11 vtrim      0  
+ 12 vthrcomp   49 
+ 13 vibias_bus 30 
+ 17 phoffset   208
+ 19 vcomp_adc  50 
+ 20 phscale    98 
+ 22 vicolor    99 
+ 25 vcal       35 
+ 26 caldel     126
+253 ctrlreg    0  
+254 wbc        99 
+255 readback   12 

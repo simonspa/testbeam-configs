@@ -5,15 +5,15 @@
   7  VwllPr	  160
   9  VwllSh	  160
  10  VhldDel	  252
- 11  Vtrim	  189
- 12  VthrComp	   98
- 13  VIBias_Bus	   60
+ 11  Vtrim	  221
+ 12  VthrComp	   75
+ 13  VIBias_Bus	   90
  17  PHOffset	  160
  19  Vcomp_ADC	   10
  20  PHScale	  107
- 22  VIColOr	   99
+ 22  VIColOr	  255
  25  VCal	  255
- 26  CalDel	  126
+ 26  CalDel	  130
 253  CtrlReg	    4
 254  WBC	  100
 255  RBReg	   12
